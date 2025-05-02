@@ -1,0 +1,117 @@
+[
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "genero": "Novela"
+    },
+    {
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "genero": "Fabula"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distopia"
+    },
+    {
+        "titulo": "Don quijote de la mancha",
+        "autor": "Miguel de Cervantes",
+        "genero": "Novela"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "genero": "Ciencia ficcion"
+    },
+    {
+        "titulo": "Cronica de una muerte anunciada",
+        "autor": "Gabriel García Márquez",
+        "genero": "Novela"
+    },
+    {
+        "titulo": "Los Juegos del hambre",
+        "autor": "Suzanne Collins",
+        "genero": "Ciencia ficcion"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "genero": "Romance"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "genero": "Novela"
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "El resplandor",
+        "autor": "Stephen King",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "genero": "Fantasia"
+    },
+    {
+        "titulo": "Harry Potter y la camara secreta",
+        "autor": "J.K. Rowling",
+        "genero": "Fantasia"
+    },
+    {
+        "titulo": "Harry Potter y el prisionero de azkaban",
+        "autor": "J.K. Rowling",
+        "genero": "Fantasia"
+    },
+    {
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Fantasia"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Fantasia"
+    },
+    {
+        "titulo": "El Codigo Da Vinci",
+        "autor": "Dan Brown",
+        "genero": "Suspenso"
+    },
+    {
+        "titulo": "Angeles y demonios",
+        "autor": "Dan Brown",
+        "genero": "Suspenso"
+    },
+    {
+        "titulo": "Inferno",
+        "autor": "Dan Brown",
+        "genero": "Suspenso"
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "genero": "Novela"
+    },
+    {
+        "titulo": "El mito de sisifo",
+        "autor": "Albert Camus",
+        "genero": "Filosofia"
+    },
+    {
+        "titulo": "Metafisica",
+        "autor": "Aristoteles",
+        "genero": "Filosofia"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "genero": "Filosofia"
+    }
+]

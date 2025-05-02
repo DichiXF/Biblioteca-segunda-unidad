@@ -1,0 +1,20 @@
+[
+    {
+        "libro": "El Principito",
+        "usuario": "Ricaxf",
+        "fecha_prestamo": "2025-04-21",
+        "fecha_devolucion_prevista": "2025-04-28",
+        "fecha_devolucion_real": "2025-04-21",
+        "dias_retraso": 0,
+        "multa": 0
+    },
+    {
+        "libro": "El Principito",
+        "usuario": "Getzi",
+        "fecha_prestamo": "2025-04-21",
+        "fecha_devolucion_prevista": "2025-05-05",
+        "fecha_devolucion_real": "2025-04-21",
+        "dias_retraso": 0,
+        "multa": 0.0
+    }
+]
